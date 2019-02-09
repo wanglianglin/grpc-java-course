@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/wanglianglin/grpc-java-course.svg?branch=master)](https://travis-ci.org/wanglianglin/grpc-java-course)
+
 # Grpc Java Course
 
 This is a companion repository for my [GRPC Java course](http://bit.ly/grpc-java-github)
